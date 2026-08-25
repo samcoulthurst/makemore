@@ -1,4 +1,4 @@
-This repo is the documentation of the Andrej Karpathys NN Zero to Hero lectures.
+This repo contains my notes and extensions of Andrej Karpathys "NN Zero to Hero" lectures.
 
 I've split my notebooks into two folders. 
 
